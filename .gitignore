@@ -1,0 +1,10 @@
+node_modules
+.idea/
+.DS_Store
+*.log
+dist
+build/
+temp
+
+monkey
+monkey.exe
