@@ -1,0 +1,23 @@
+{
+  "name": "monkey",
+  "version": "1.0.0",
+  "description": "An interpreter for the Monkey programming language.",
+  "main": "remove_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gengjiawen/monkey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gengjiawen/monkey/issues"
+  },
+  "homepage": "https://github.com/gengjiawen/monkey#readme",
+  "devDependencies": {
+    "glob": "^7.2.0"
+  }
+}
